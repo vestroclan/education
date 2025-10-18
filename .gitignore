@@ -10,4 +10,10 @@ node_modules
 education/public/frontend
 education/www/education.html
 education/www/student-portal.html
-./node_modules
+./node_modulesfrappe-bench/
+frappe-bench/
+*.pyc
+__pycache__/
+node_modules/
+*.log
+.DS_Store
